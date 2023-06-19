@@ -4,8 +4,10 @@
 * External
 * CS:S v92/91
 
-# Download
+# Installinh
 
-![](https://github.com/MicRofaRatOV/WildBunny-cs-source/blob/master/installing/wbInstall0.2.1.gif)
+1. [Download](https://github.com/MicRofaRatOV/WildBunny-cs-source/releases/latest) last executable
+2. Copy "X.x" folder to your drive
+3. Run "Wild_Bunny.exe" for "X.x" folder
+4. Run CS:S
 
-[Download link](https://github.com/MicRofaRatOV/WildBunny-cs-source/releases/latest)
