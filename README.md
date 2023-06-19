@@ -1,5 +1,8 @@
 # WildBunny
 
+![](https://github.com/MicRofaRatOV/WildBunny-cs-source/blob/master/bunny/WildBunnyWhite.svg)
+<img src="https://github.com/MicRofaRatOV/WildBunny-cs-source/blob/master/bunny/WildBunnyWhite.svg">
+
 * Free and OpenSource
 * External
 * CS:S v92/91
