@@ -4,7 +4,7 @@
 * External
 * CS:S v92/91
 
-# Installinh
+# Installing
 
 1. [Download](https://github.com/MicRofaRatOV/WildBunny-cs-source/releases/latest) last executable
 2. Copy "X.x" folder to your drive
