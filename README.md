@@ -1,7 +1,6 @@
 # WildBunny
 
-![](https://github.com/MicRofaRatOV/WildBunny-cs-source/blob/master/bunny/WildBunnyWhite.svg)
-<img src="https://github.com/MicRofaRatOV/WildBunny-cs-source/blob/master/bunny/WildBunnyWhite.svg">
+<img src="https://github.com/MicRofaRatOV/WildBunny-cs-source/blob/master/bunny/WildBunnyWhite.svg" width="200">
 
 * Free and OpenSource
 * External
