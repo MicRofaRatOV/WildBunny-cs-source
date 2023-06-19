@@ -19,9 +19,9 @@ const short frequency = 10; // milliseconds
 
 const short WINDOW_WIDTH = 320;
 const short WINDOW_HEIGHT = 150;
-const float FREEZE_TIME = 0.f;
+const float FREEZE_TIME = 2.f;
 
-const string wbVersion = "0.2";
+const string wbVersion = "0.2.1";
 
 bool active = true;
 bool kill = false;
