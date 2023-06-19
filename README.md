@@ -7,7 +7,7 @@
 # Installing
 
 1. [Download](https://github.com/MicRofaRatOV/WildBunny-cs-source/releases/latest) last executable
-2. Copy "X.x" folder to your drive
-3. Run "Wild_Bunny.exe" for "X.x" folder
+2. Copy "X.x" from zip folder to your drive
+3. Run "Wild_Bunny.exe" for "X.x" folder (DO NOT REMOVE ANYTHING FROM THIS FOLDER)
 4. Run CS:S
 
